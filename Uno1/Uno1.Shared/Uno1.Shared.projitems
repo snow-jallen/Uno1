@@ -22,6 +22,7 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)MainPageViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SimpleCommand.cs" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="$(MSBuildThisFileDirectory)MainPage.xaml">
